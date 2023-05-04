@@ -1,0 +1,3 @@
+# Voting
+
+Voting page
